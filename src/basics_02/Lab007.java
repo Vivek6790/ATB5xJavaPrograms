@@ -14,7 +14,7 @@ public class Lab007 {
         System.out.println("Vivek");
 
         int age = 34;
-        System.out.println("Your age is "+ age);
+        System.out.println("Your age is " + age);
         System.out.printf("Your age is %d",age);//format
 
         // %d - any integer-  byte, short,int or long
